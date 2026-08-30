@@ -43,16 +43,18 @@
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
 ```yaml
-name: "Your Name"
-role: "Software Engineer | AI/ML Engineer"
+name: "Meghashri Lakshmi S"
+role: "Final-Year CSE Student | Aspiring Software Developer"
 focus:
-  - Building scalable, production-grade backend systems
-  - Designing and deploying AI/ML powered applications
-  - Full stack product engineering with a business-first mindset
-  - Writing clean, maintainable, and well-tested code
+  - Building practical applications using Python and Java
+  - Exploring AI/ML and cloud technologies
+  - Full-stack web development
+  - Developing real-world projects
+  - Continuously improving problem-solving and technical skills
 philosophy: >
-  I engineer software the way products are meant to be built —
-  reliable at scale, elegant in design, and driven by real impact.
+  I believe in learning by building real-world projects,
+  solving problems with technology, and continuously
+  improving my skills to create meaningful solutions.
 ```
 
 I'm a **Software Engineer** with a strong foundation in **Artificial Intelligence, Machine Learning, and Full Stack Development**. I specialize in building systems that are not just functional, but **scalable, secure, and production-ready**. My work spans across designing distributed backend architectures, training and deploying ML models, and crafting intuitive front-end experiences — always with a **product engineering mindset** focused on real-world impact.
