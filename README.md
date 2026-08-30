@@ -1,6 +1,3 @@
-Yes. Below is the **complete ready-to-paste `README.md`**. I’ve kept Claude’s **same overall design, animations, badges, purple theme, sections, GitHub analytics, trophies, activity graph, and contribution snake**. I only changed the personal information and removed unsupported claims/placeholders.
-
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Meghashri%20Lakshmi%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Final-Year%20CSE%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=55&descAlign=50" width="100%"/>
