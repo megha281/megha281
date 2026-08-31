@@ -237,16 +237,51 @@ This project helped strengthen Python programming fundamentals, logic building, 
 
 ## 💼 Experience
 
+### MERN Stack Development Intern — **Emertxe Information Technologies**
+
+**Aug 2026 — Present** | 🌐 Remote
+
+Currently working on a 4-week internship focused on **MERN Stack Development**.
+
+- Developing **HomelyHub – Property Booking Platform using MERN Stack**
+- Building practical full-stack web development skills
+- Working with modern web development technologies
+- Participating in internship evaluations, quizzes, and project activities
+
+`MongoDB` `Express.js` `React.js` `Node.js` `Full Stack Development`
+
+<br/>
+
+---
+
+### AI & Machine Learning Intern — **KineTrexa Software Pvt. Ltd.**
+
+**20 Jul 2026 — 19 Aug 2026** | 🌐 Remote
+
+Successfully completed an internship focused on **Artificial Intelligence & Machine Learning**.
+
+- Worked on practical AI/ML projects
+- Developed **CineVerse – Movie Recommendation System**
+- Developed **ChurnIQ – Customer Churn Prediction Platform**
+- Gained hands-on experience in machine learning and application development
+- Worked on real-world project-based tasks
+
+`Python` `Machine Learning` `Scikit-learn` `Streamlit` `AI/ML`
+
+<br/>
+
+---
+
 ### Python Intern — **Upskill Campus / UniConverge Technologies Pvt. Ltd.**
 
-**2026**
+**2026** | 🌐 Remote
 
-Worked on Python programming and practical development tasks as part of an internship program.
+Completed a Python internship focused on practical programming and project development.
 
-* Developed a Python-based quiz game
-* Practiced programming fundamentals and problem solving
-* Worked with Git and GitHub
-* Built and organized project files and documentation
+- Developed a **Python Quiz Game**
+- Practiced Python programming and problem solving
+- Used Git and GitHub for project development
+- Worked on internship-based assignments and project tasks
 
 `Python` `Git` `GitHub`
 
