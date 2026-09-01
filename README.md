@@ -367,18 +367,6 @@ Completed a Python internship focused on practical programming and project devel
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=megha281&theme=radical&no-frame=true&no-bg=false&margin-w=10&row=1&column=7"/>
-
-</div>
-
-<br/>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
