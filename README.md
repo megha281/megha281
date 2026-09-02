@@ -56,7 +56,7 @@ I'm a Computer Science Engineering student passionate about software development
 I enjoy turning ideas into working projects and continuously improving my technical and problem-solving skills through hands-on development.
 
 My experience includes Python development, Django web applications, machine learning projects, Streamlit applications and MERN stack development.
-
+```
 🛠️ Tech Stack
 <div align="center">
 Languages
