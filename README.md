@@ -212,6 +212,18 @@ Successfully completed an internship focused on **Artificial Intelligence and Ma
 
 ---
 
+### ☁️ AWS Cloud Computing Virtual Intern
+**NASSCOM FutureSkills Prime × SmartBridge**
+
+**Jan 09, 2026 – Mar 10, 2026** | 🌐 Virtual
+
+- Completed a Virtual Internship Program on AWS Cloud Computing
+- Gained practical knowledge of AWS Cloud Computing concepts
+
+[📜 View Certificate](./certificates/aws-cloud-computing.png)
+
+---
+
 ## 🐍 Python Intern
 
 **UpSkill Campus / UniConverge Technologies Pvt. Ltd.**
@@ -238,13 +250,12 @@ Completed a Python internship focused on programming and project development.
 
 🎓 Final Year
 
-📊 **CGPA: 8.23**
+📊 **CGPA: 8.02**
 
 ---
 
 # 📜 Certifications
 
-* ☁️ **AWS Cloud Computing Virtual Internship** — NASSCOM FutureSkills
 * 🤖 **Generative AI Professional** — Oracle University
 * 🧠 **AI Foundations Associate** — Oracle University
 * 📊 **Data Science Professional** — Oracle University / Infosys Springboard
