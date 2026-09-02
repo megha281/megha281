@@ -1,5 +1,3 @@
-<!-- ========================= HEADER ========================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:2563EB&height=220&section=header&text=Meghashri%20Lakshmi%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descSize=17"/>
@@ -47,190 +45,276 @@ currently:
   - Building practical software projects
   - Exploring modern web and AI technologies
 
-philosophy:
-  "Learn by building, improve by solving,
-   and grow through continuous practice."
+philosophy: "Learn by building, improve by solving, and grow through continuous practice."
+```
 
-I'm a Computer Science Engineering student passionate about software development, AI/ML and building practical applications.
+I'm a Computer Science Engineering student passionate about **software development, AI/ML, and building practical applications**.
 
 I enjoy turning ideas into working projects and continuously improving my technical and problem-solving skills through hands-on development.
 
-My experience includes Python development, Django web applications, machine learning projects, Streamlit applications and MERN stack development.
-```
-🛠️ Tech Stack
+My experience includes **Python development, Django web applications, machine learning projects, Streamlit applications, and MERN stack development**.
+
+---
+
+# 🛠️ Tech Stack
+
 <div align="center">
-Languages
+
+### Languages
+
 <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark"/>
 
-<br/><br/>
+<br/>
 
-Web & Frameworks
+### Web & Frameworks
+
 <img src="https://skillicons.dev/icons?i=html,css,js,django,react,nodejs,express&theme=dark"/>
 
-<br/><br/>
+<br/>
 
-AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark"/>
+### AI / Machine Learning
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
-Database & Cloud
+<br/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<br/>
+
+### Database & Cloud
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,aws&theme=dark"/>
 
-<br/><br/>
+<br/>
 
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/> </div>
-🚀 Featured Projects
-🎬 CineVerse — Movie Recommendation System
+### Tools
 
-A Netflix-inspired movie recommendation web application that provides movie recommendations through a content-based recommendation approach.
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
-Tech Stack
+</div>
 
-Python Streamlit Pandas NumPy Scikit-learn
+---
 
-Live Project:
+# 🚀 Featured Projects
+
+## 🎬 CineVerse — Movie Recommendation System
+
+A Netflix-inspired movie recommendation web application that provides movie recommendations using a **content-based recommendation approach**.
+
+**Tech Stack:**
+`Python` `Streamlit` `Pandas` `NumPy` `Scikit-learn`
+
+🌐 **Live Project:**
 https://cineverse-ycbmvs44tjtxuva3zwcrbx.streamlit.app/
 
-Repository:
+💻 **Repository:**
 https://github.com/megha281/CineVerse
 
-📊 ChurnIQ — Customer Churn Prediction Platform
+---
+
+## 📊 ChurnIQ — Customer Churn Prediction Platform
 
 An interactive machine learning platform designed to analyze customer data and predict customer churn.
 
-The application includes data exploration, model insights and a prediction interface.
+The application includes **data exploration, model insights, and an interactive prediction interface**.
 
-Tech Stack
+**Tech Stack:**
+`Python` `Streamlit` `Scikit-learn` `Machine Learning`
 
-Python Streamlit Scikit-learn Machine Learning
-
-Live Project:
+🌐 **Live Project:**
 https://churn-app-fxfg9ucwzslvkgeprervrg.streamlit.app/
 
-Repository:
+💻 **Repository:**
 https://github.com/megha281/Churn-app
 
-📅 NeoSched — Timetable & Attendance Management System
+---
 
-A Django-based academic management application developed as a team project.
+## 📅 NeoSched — Timetable & Attendance Management System
 
-I worked as a Core Developer, contributing to the development of the application's timetable, user/dashboard and attendance-related functionality.
+A Django-based academic management application developed as a **team project**.
+
+I worked as a **Core Developer**, contributing to the application's timetable, user/dashboard, and attendance-related functionality.
 
 The project repository was maintained by the team leader.
 
-Tech Stack
+**Tech Stack:**
+`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript`
 
-Python Django SQLite HTML CSS JavaScript
-
-Repository:
+💻 **Repository:**
 https://github.com/neela2470/Neo_sched
 
-🏠 HomelyHub — Property Booking Platform
+---
 
-A property booking platform being developed during my MERN Stack Development internship.
+## 🏠 HomelyHub — Property Booking Platform
 
-Tech Stack
+A property booking platform being developed during my **MERN Stack Development Internship**.
 
-MongoDB Express.js React.js Node.js
+**Tech Stack:**
+`MongoDB` `Express.js` `React.js` `Node.js`
 
-Status: 🚧 In Development
+**Status:** 🚧 In Development
 
-🐍 Python Quiz Game
+---
+
+## 🐍 Python Quiz Game
 
 A command-line quiz application developed using Python with interactive questions and score tracking.
 
-Tech Stack
+**Tech Stack:**
+`Python`
 
-Python
-
-Repository:
+💻 **Repository:**
 https://github.com/megha281/python-quiz-game
 
-💼 Experience
-💻 MERN Stack Development Intern
+---
 
-Emertxe Information Technologies
+# 💼 Experience
 
-August 2026 — Present | Remote
+## 💻 MERN Stack Development Intern
 
-Currently participating in a 4-week MERN Stack development internship.
+**Emertxe Information Technologies**
+
+📅 **August 2026 — Present**
+📍 Remote
+
+Currently participating in a **4-week MERN Stack Development Internship**.
 
 Working on:
 
-HomelyHub — Property Booking Platform
-Full-stack web development
-MERN stack technologies
-Project activities and evaluations
+* HomelyHub — Property Booking Platform
+* Full-stack web development
+* MERN stack technologies
+* Project activities and evaluations
 
-MongoDB Express.js React.js Node.js
+**Technologies:**
+`MongoDB` `Express.js` `React.js` `Node.js`
 
-🤖 AI & Machine Learning Intern
+---
 
-KineTrexa Software Private Limited
+## 🤖 AI & Machine Learning Intern
 
-20 July 2026 — 19 August 2026
+**KineTrexa Software Private Limited**
 
-Successfully completed an internship focused on Artificial Intelligence and Machine Learning.
+📅 **20 July 2026 — 19 August 2026**
 
-Projects developed:
+Successfully completed an internship focused on **Artificial Intelligence and Machine Learning**.
 
-CineVerse — Movie Recommendation System
-ChurnIQ — Customer Churn Prediction Platform
+### Projects Developed
 
-Python Machine Learning Scikit-learn Streamlit
+* 🎬 CineVerse — Movie Recommendation System
+* 📊 ChurnIQ — Customer Churn Prediction Platform
 
-🐍 Python Intern
+**Technologies:**
+`Python` `Machine Learning` `Scikit-learn` `Streamlit`
 
-UpSkill Campus / UniConverge Technologies Pvt. Ltd.
+---
 
-2026
+## 🐍 Python Intern
+
+**UpSkill Campus / UniConverge Technologies Pvt. Ltd.**
+
+📅 **2026**
 
 Completed a Python internship focused on programming and project development.
 
-Developed Python Quiz Game
-Practiced Python programming
-Worked with Git and GitHub
-Completed internship-based project activities
+* Developed a Python Quiz Game
+* Practiced Python programming
+* Worked with Git and GitHub
+* Completed internship-based project activities
 
-Python Git GitHub
+**Technologies:**
+`Python` `Git` `GitHub`
 
-🎓 Education
-Bachelor of Technology — Computer Science Engineering
+---
 
-Kishkinda University
+# 🎓 Education
 
-Final Year
+## Bachelor of Technology — Computer Science Engineering
 
-CGPA: 8.23
+**Kishkinda University**
 
-📜 Certifications
-AWS Cloud Computing Virtual Internship — NASSCOM FutureSkills
-Generative AI Professional — Oracle University
-AI Foundations Associate — Oracle University
-Data Science Professional — Oracle University / Infosys Springboard
-🎯 What I'm Working Towards
+🎓 Final Year
+
+📊 **CGPA: 8.23**
+
+---
+
+# 📜 Certifications
+
+* ☁️ **AWS Cloud Computing Virtual Internship** — NASSCOM FutureSkills
+* 🤖 **Generative AI Professional** — Oracle University
+* 🧠 **AI Foundations Associate** — Oracle University
+* 📊 **Data Science Professional** — Oracle University / Infosys Springboard
+
+---
+
+# 🎯 What I'm Working Towards
+
+```text
 Software Development
-       ↓
+        ↓
 Full Stack Development
-       ↓
+        ↓
 Artificial Intelligence & Machine Learning
-       ↓
+        ↓
 Cloud Technologies
-       ↓
+        ↓
 Building Better Products
+```
 
-I'm continuously learning, building projects and improving my ability to solve real-world problems through technology.
+I'm continuously learning, building projects, and improving my ability to solve real-world problems through technology.
 
-📈 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=megha281&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=megha281&theme=tokyonight&hide_border=true&background=0D1117"/> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/megha281/megha281/output/github-contribution-grid-snake-dark.svg"/> </div>
-📫 Connect With Me
-<div align="center"> <a href="https://github.com/megha281"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/meghashri-lakshmi-s-173528385"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:meghas2815@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <br/> <div align="center">
-✨ Thanks for visiting my profile!
+---
 
-"Learn. Build. Improve. Repeat."
+# 📈 GitHub Activity
 
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:4C1D95&height=120&section=footer"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=megha281&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=megha281&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/megha281/megha281/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/megha281">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/meghashri-lakshmi-s-173528385">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:meghas2815@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+✨ **Thanks for visiting my profile!**
+
+*"Learn. Build. Improve. Repeat."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:4C1D95&height=120&section=footer"/>
