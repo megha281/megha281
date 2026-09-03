@@ -84,7 +84,7 @@ My experience includes **Python development, Django web applications, machine le
 
 <br/>
 
-### Database & Clou
+### Database & Cloud
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,aws&theme=dark"/>
 
