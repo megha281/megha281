@@ -1,331 +1,247 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:2563EB&height=220&section=header&text=Meghashri%20Lakshmi%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:2563EB&height=220&section=header&text=Meghashri%20Lakshmi%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=60&descSize=17" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+Projects+%E2%80%A2+Learning+Technologies;Python+%7C+Django+%7C+Java+%7C+JavaScript;Full+Stack+Development+%7C+AI%2FML+%7C+Cloud;Turning+Ideas+Into+Working+Applications" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+Projects+%E2%80%A2+Learning+Technologies+%E2%80%A2+Growing+Every+Day;Python+%7C+Java+%7C+Django+%7C+Machine+Learning;Full+Stack+Development+%7C+AI%2FML+%7C+Cloud;Turning+Ideas+Into+Working+Applications"/>
-
-<br/><br/>
-
-<a href="https://github.com/megha281">
-<img src="https://img.shields.io/badge/GitHub-megha281-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/meghashri-lakshmi-s-173528385">
-<img src="https://img.shields.io/badge/LinkedIn-Meghashri%20Lakshmi%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:meghas2815@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://my-portfolio-ochre-tau-69.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/megha281"><img src="https://img.shields.io/badge/GitHub-megha281-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/meghashri-lakshmi-s-173528385"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:meghas2815@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
-<br/>
+---
+
+## 👋 About Me
+
+Hello! I'm **Meghashri Lakshmi S**, a Computer Science Engineering student at **Kishkinda University**, interested in software development, artificial intelligence, machine learning, and full-stack application development.
+
+- 🎓 **University:** Kishkinda University
+- 📊 **CGPA:** 8.02
+- 💻 **Interests:** Software Development, Python, Full Stack Development, AI/ML, and Cloud Computing
+- 🧩 **Approach:** Learn by building, improve by solving, and grow through continuous practice.
+- 🌱 **Currently focused on:** Improving programming skills, developing practical applications, and exploring modern technologies.
+
+I enjoy turning ideas into working software and learning through hands-on projects. My experience includes Django applications, machine learning projects, interactive data applications, and MERN stack development.
+
+🌐 **Explore my portfolio:** [my-portfolio-ochre-tau-69.vercel.app](https://my-portfolio-ochre-tau-69.vercel.app/)
 
 ---
 
-# 👋 About Me
-
-```yaml
-name: "Meghashri Lakshmi S"
-role: "Final-Year Computer Science Engineering Student"
-university: "Kishkinda University"
-
-focus:
-  - Software Development
-  - Python Development
-  - Full Stack Development
-  - Artificial Intelligence & Machine Learning
-  - Cloud Technologies
-
-currently:
-  - Improving programming and problem-solving skills
-  - Building practical software projects
-  - Exploring modern web and AI technologies
-
-philosophy: "Learn by building, improve by solving, and grow through continuous practice."
-```
-
-I'm a Computer Science Engineering student passionate about **software development, AI/ML, and building practical applications**.
-
-I enjoy turning ideas into working projects and continuously improving my technical and problem-solving skills through hands-on development.
-
-My experience includes **Python development, Django web applications, machine learning projects, Streamlit applications, and MERN stack development**.
-
----
-
-# 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" alt="Python, Java, C and JavaScript"/>
 
-<br/>
+### Web Development
 
-### Web & Frameworks
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,django&theme=dark" alt="HTML, CSS, React, Node.js, Express and Django"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,django,react,nodejs,express&theme=dark"/>
+### Databases and Cloud
 
-<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,aws&theme=dark" alt="MongoDB, MySQL, SQLite and AWS"/>
 
-### AI / Machine Learning
+### Machine Learning and Data
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<br/>
-
-### Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,aws&theme=dark"/>
-
-<br/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,canva&theme=dark" alt="Git, GitHub, VS Code and Canva"/>
 
 </div>
 
----
-
-# 🚀 Featured Projects
-
-## 🎬 CineVerse — Movie Recommendation System
-
-A Netflix-inspired movie recommendation web application that provides movie recommendations using a **content-based recommendation approach**.
-
-**Tech Stack:**
-`Python` `Streamlit` `Pandas` `NumPy` `Scikit-learn`
-
-🌐 **Live Project:**
-https://cineverse-ycbmvs44tjtxuva3zwcrbx.streamlit.app/
-
-💻 **Repository:**
-https://github.com/megha281/CineVerse
+Additional skills: Django, frontend and backend development, AWS Cloud Computing, Microsoft Office, Google Workspace, and responsive web development.
 
 ---
 
-## 📊 ChurnIQ — Customer Churn Prediction Platform
+## 🚀 Featured Projects
 
-An interactive machine learning platform designed to analyze customer data and predict customer churn.
+Here are eight projects featured in my portfolio.
 
-The application includes **data exploration, model insights, and an interactive prediction interface**.
+### 1. 📅 NeoSched — Timetable and Attendance Management System
 
-**Tech Stack:**
-`Python` `Streamlit` `Scikit-learn` `Machine Learning`
+A Django-based academic management application developed as a team project. I contributed to timetable, user/dashboard, and attendance-related functionality as a core developer.
 
-🌐 **Live Project:**
-https://churn-app-fxfg9ucwzslvkgeprervrg.streamlit.app/
+**Technologies:** Python · Django · SQLite · HTML · CSS · JavaScript
 
-💻 **Repository:**
-https://github.com/megha281/Churn-app
+🔗 [GitHub Repository](https://github.com/neela2470/Neo_sched)
 
----
+### 2. 🏠 HomelyHub — Property Booking Platform
 
-## 📅 NeoSched — Timetable & Attendance Management System
+A full-stack property booking platform developed using the MERN stack during my Emertxe internship. The project includes frontend and backend components for a property-booking experience.
 
-A Django-based academic management application developed as a **team project**.
+**Technologies:** MongoDB · Express.js · React.js · Node.js
 
-I worked as a **Core Developer**, contributing to the application's timetable, user/dashboard, and attendance-related functionality.
+🌐 [Live Website](https://homelyhub-frontend-ot2a.onrender.com)
 
-The project repository was maintained by the team leader.
+### 3. 🌦️ WeatherGPT — Conversational Weather Assistant
 
-**Tech Stack:**
-`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript`
+An AI-powered weather assistant designed to answer natural-language weather questions and provide forecasts, alerts, climate information, and risk insights. It integrates a conversational AI experience with weather data and multilingual support.
 
-💻 **Repository:**
-https://github.com/neela2470/Neo_sched
+**Technologies:** React · Vite · Node.js · Express.js · MongoDB · Gemini API · Open-Meteo
 
----
+🌐 [Live Project](https://weather-gpt-megha-071f.vercel.app/)  
+💻 [GitHub Repository](https://github.com/megha281/WeatherGPT)
 
-## 🏠 HomelyHub — Property Booking Platform
+### 4. 🛒 Zippy Cart — E-Commerce Project
 
-A property booking platform being developed during my **MERN Stack Development Internship**.
+An e-commerce project focused on providing an online shopping experience.
 
-**Tech Stack:**
-`MongoDB` `Express.js` `React.js` `Node.js`
+**Technologies:** Web Development · Frontend Development
 
-**Status:** 🚧 In Development
+🌐 [Live Project](https://zippy-compare-cart.lovable.app)  
+💻 [GitHub Repository](https://github.com/megha281/E-Commercere)
 
----
+### 5. 🌱 AgriVision — AI Plant Disease Detection
 
-## 🐍 Python Quiz Game
+An AI-powered plant disease detection project designed to identify plant diseases from images and provide relevant treatment recommendations. It also incorporates an AI assistant and multilingual functionality.
 
-A command-line quiz application developed using Python with interactive questions and score tracking.
+**Technologies:** Python · Machine Learning · FastAPI · React · TypeScript · TensorFlow/Keras
 
-**Tech Stack:**
-`Python`
+💻 [GitHub Repository](https://github.com/megha281/Agri-vision)
 
-💻 **Repository:**
-https://github.com/megha281/python-quiz-game
+### 6. 🎬 CineVerse — Movie Recommendation System
 
----
+A movie recommendation application that uses a content-based recommendation approach to suggest movies based on movie information and similarity.
 
-# 💼 Experience
+**Technologies:** Python · Streamlit · Pandas · NumPy · Scikit-learn
 
-## 💻 MERN Stack Development Intern
+🌐 [Live Project](https://cineverse-ycbmvs44tjtxuva3zwcrbx.streamlit.app/)  
+💻 [GitHub Repository](https://github.com/megha281/CineVerse)
 
-**Emertxe Information Technologies**
+### 7. 📊 ChurnIQ — Customer Churn Prediction Platform
 
-📅 **August 2026 — Present**
-📍 Remote
+An interactive machine learning application for exploring customer data and predicting customer churn. It includes data exploration, model insights, and a prediction interface.
 
-Currently participating in a **4-week MERN Stack Development Internship**.
+**Technologies:** Python · Streamlit · Scikit-learn · Machine Learning
 
-Working on:
+🌐 [Live Project](https://churn-app-fxfg9ucwzslvkgeprervrg8.streamlit.app/)  
+💻 [GitHub Repository](https://github.com/megha281/Churn-app)
 
-* HomelyHub — Property Booking Platform
-* Full-stack web development
-* MERN stack technologies
-* Project activities and evaluations
+### 8. 🍲 Homemade Food Website
 
-**Technologies:**
-`MongoDB` `Express.js` `React.js` `Node.js`
+A web development project focused on a homemade-food website experience.
+
+**Technologies:** HTML · CSS · JavaScript / Web Development
+
+💻 [GitHub Repository](https://github.com/megha281/homemade-food-website)
 
 ---
 
-## 🤖 AI & Machine Learning Intern
+## 💼 Internship Experience
 
-**KineTrexa Software Private Limited**
+### 🤖 AI & Machine Learning Intern — Kinetrexa Software Private Limited
 
-📅 **20 July 2026 — 19 August 2026**
+**July 20, 2026 – August 19, 2026**
 
-Successfully completed an internship focused on **Artificial Intelligence and Machine Learning**.
+Completed an internship focused on artificial intelligence and machine learning.
 
-### Projects Developed
+**Projects developed:**
+- 🎬 CineVerse — Movie Recommendation System
+- 📊 ChurnIQ — Customer Churn Prediction Platform
 
-* 🎬 CineVerse — Movie Recommendation System
-* 📊 ChurnIQ — Customer Churn Prediction Platform
+**Technologies:** Python · Machine Learning · Scikit-learn · Streamlit
 
-**Technologies:**
-`Python` `Machine Learning` `Scikit-learn` `Streamlit`
+### 🌐 MERN Stack Development Intern — Emertxe
 
----
+**Status: Completed**
 
-### ☁️ AWS Cloud Computing Virtual Intern
-**NASSCOM FutureSkills Prime × SmartBridge**
+Completed an online MERN Stack internship involving full-stack web development and the HomelyHub property booking project.
 
-**Jan 09, 2026 – Mar 10, 2026** | 🌐 Virtual
+**Project:** HomelyHub — Property Booking Platform
 
-- Completed a Virtual Internship Program on AWS Cloud Computing
-- Gained practical knowledge of AWS Cloud Computing concepts
+**Technologies:** MongoDB · Express.js · React.js · Node.js
 
-[📜 View Certificate](./certificates/aws-cloud-computing.png)
+### ☁️ AWS Cloud Computing Virtual Internship — NASSCOM FutureSkills Prime × SmartBridge
 
----
+**January 9, 2026 – March 10, 2026**
 
-## 🐍 Python Intern
+Completed a virtual internship program focused on AWS Cloud Computing and cloud technology concepts.
 
-**UpSkill Campus / UniConverge Technologies Pvt. Ltd.**
-
-📅 **2026**
-
-Completed a Python internship focused on programming and project development.
-
-* Developed a Python Quiz Game
-* Practiced Python programming
-* Worked with Git and GitHub
-* Completed internship-based project activities
-
-**Technologies:**
-`Python` `Git` `GitHub`
+**Focus:** AWS Cloud Computing · Cloud Fundamentals
 
 ---
 
-# 🎓 Education
-
-## Bachelor of Technology — Computer Science Engineering
+## 🎓 Education
 
 **Kishkinda University**
 
-🎓 Final Year
+Computer Science Engineering — Final Year
 
-📊 **CGPA: 8.02**
-
----
-
-# 📜 Certifications
-
-* 🤖 **Generative AI Professional** — Oracle University
-* 🧠 **AI Foundations Associate** — Oracle University
-* 📊 **Data Science Professional** — Oracle University / Infosys Springboard
+**CGPA: 8.02**
 
 ---
 
-# 🎯 What I'm Working Towards
+## 📜 Certifications
+
+- 🤖 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** — Oracle University
+- 🧠 **Oracle AI Foundations Associate** — Oracle University, 2025
+- 📊 **Oracle Data Science Professional** — Oracle University, 2025
+- ☁️ **AWS Cloud Computing Virtual Internship** — NASSCOM FutureSkills Prime × SmartBridge, completed March 2026
+
+---
+
+## 🎯 My Learning Journey
 
 ```text
+Programming Fundamentals
+          ↓
 Software Development
-        ↓
-Full Stack Development
-        ↓
+          ↓
+Full Stack Web Development
+          ↓
 Artificial Intelligence & Machine Learning
-        ↓
+          ↓
 Cloud Technologies
-        ↓
-Building Better Products
+          ↓
+Building Useful Applications
 ```
 
-I'm continuously learning, building projects, and improving my ability to solve real-world problems through technology.
+I believe in continuous learning, practical development, and improving through real-world problem-solving.
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=megha281&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=megha281&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha281&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=megha281&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=megha281&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 📫 Connect With Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/megha281/megha281/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/megha281">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/meghashri-lakshmi-s-173528385">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:meghas2815@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://my-portfolio-ochre-tau-69.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/megha281"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/meghashri-lakshmi-s-173528385"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:meghas2815@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
 ✨ **Thanks for visiting my profile!**
 
-*"Learn. Build. Improve. Repeat."*
+*Learn. Build. Improve. Repeat.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:4C1D95&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:4C1D95&height=120&section=footer" width="100%"/>
