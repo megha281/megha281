@@ -155,6 +155,7 @@ Completed an internship focused on artificial intelligence and machine learning.
 ### 🌐 MERN Stack Development Intern — Emertxe
 
 **August 12, 2026 - September 16, 2026**
+
 Completed an online MERN Stack internship involving full-stack web development and the HomelyHub property booking project.
 
 **Project:** HomelyHub — Property Booking Platform
